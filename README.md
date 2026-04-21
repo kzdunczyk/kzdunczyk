@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kzdunczyk
-- 👀 I’m interested in: Machine learning, data analisis and so on 
-- 💞️ I’m looking to collaborate on: anything releated to machine learning realy :)
-- 📫 How to reach me: www.linkedin.com/in/kajetan-zduńczyk-570584241
+www.linkedin.com/in/kajetan-zduńczyk-570584241
   
 
 <!---
